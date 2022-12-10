@@ -65,10 +65,10 @@ alt="sqlite" width="40" height="40"/> </a>
 
 <details><summary><b style="color:#1A1B27;font-size:20px">Account details</b></summary>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TursunboyevJahongir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TursunboyevJahongir" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Najmiddinn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TursunboyevJahongir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tursunboyevjahongir&show_icons=true&locale=en&theme=tokyonight" alt="tursunboyevjahongir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Najmiddinn&show_icons=true&locale=en&theme=tokyonight" alt="tursunboyevjahongir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tursunboyevjahongir&theme=tokyonight" alt="tursunboyevjahongir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Najmiddinn&theme=tokyonight" alt="tursunboyevjahongir" /></p>
 
 </details>
