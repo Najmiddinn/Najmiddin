@@ -15,25 +15,18 @@
 
 
 - 🤖 I like coding. I'm a **Php Developer**
-- 🔭 I’m currently working on [Pos system](daftar.uz)
-- 🌱 I’m currently learning **SwiftUi**
-- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/jahongir-tursunboyev-backend-php-laravel/)
-- ⚡ Fun fact **I love solving complex problems and travel.**
-- 🏃 I love sport: Ping pong 🏓, football ⚽, basketball🏀, chess♟
-- 🥅 2022 Goals: Learn Swift,SwiftUi
+- 🔭 I’m currently working on [agrobank](agrobank.uz)
+- 🌱 I’m currently learning **flutter**
+- 📄 Know about my experiences [linkedin](https://www.linkedin.com/in/najmiddin/)
+- ⚡ Fun fact **I love solving complex problems,travel and talk with friends.**
+- 🏃 I love sport: football ⚽,
+- 🥅 2023 Goals: flutter, Linux
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jahongir-tursunboyev-backend-php-laravel" target="blank"><img align="center" src="./img/linkedin.svg" alt="jahongir-tursunboyev-backend-php-laravel" height="30" width="40" /></a>
-<a href="https://t.me/TursunboyevJahongir" target="blank"><img align="center" src="./img/telegram.svg" 
-alt="JahongirTursunboyev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13050909/jahongir-tursunboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13050909/jahongir-tursunboyev" height="30" width="40" /></a>
-<a href="https://instagram.com/jahongir_tursunboyev_" target="blank"><img align="center" src="./img/instagram.svg" 
-alt="jahongir_tursunboyev_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tursunboyevjahongir" target="blank"><img align="center" src="./img/leetcode.svg" 
-alt="tursunboyevjahongir" height="30" width="40" /></a>
-<a href="mailto:jah6332@gmail.com" target="blank"><img align="center" src="./img/gmail.svg" 
-alt="JahongirTursunboyev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/najmiddin/" target="blank"><img align="center" src="./img/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14773037/najmiddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -74,13 +67,5 @@ alt="sqlite" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </details>
 </p>
-
-<details><summary><b style="color:#1A1B27;font-size:20px">Account details</b></summary>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TursunboyevJahongir&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TursunboyevJahongir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tursunboyevjahongir&show_icons=true&locale=en&theme=tokyonight" alt="tursunboyevjahongir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tursunboyevjahongir&theme=tokyonight" alt="tursunboyevjahongir" /></p>
 
 </details>
